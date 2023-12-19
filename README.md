@@ -1,1 +1,1 @@
-# RandomDogFacts
+# For JavaScript Coders course
